@@ -3,3 +3,14 @@
    <h3 align="center">Hi, I’m Agustin Escribano 👨🏻‍💻</h3>
 </p>
 <p align="center">I am a <strong>Frontend Developer</strong> with a passion for solving problems applying new technologies, without neglecting the details. I show great interest, as well as commitment, in joining a work group and thereby creating an environment of collective growth.<br />👇</p>
+<p align="center">
+   <a href="https://agustin-escribano.web.app/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/e-mkt-aff75.appspot.com/o/www.png?alt=media&token=ce64d187-e45f-4cf8-a450-dd40f33cc490" alt="miweb" height="28px" width="28px" />
+  </a>
+   <a href="https://www.linkedin.com/in/agust%C3%ADn-escribano-779919201/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/e-mkt-aff75.appspot.com/o/github.png?alt=media&token=b09ac14b-6f51-4b2f-898e-b236debecccf" alt="midudev" height="28px" width="28px" />
+  </a>
+  <a href="https://wa.me/5493517347333" target="blank">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/e-mkt-aff75.appspot.com/o/whatsapp.png?alt=media&token=5423c828-1aa1-49cb-89c4-208cd1c5ebfc" alt="midu.dev" height="28px" width="28px" />
+  </a>
+</p>
