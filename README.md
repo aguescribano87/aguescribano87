@@ -4,9 +4,6 @@
 </p>
 <p align="center">I am a <strong>Frontend Developer</strong> with a passion for solving problems applying new technologies, without neglecting the details. I show great interest, as well as commitment, in joining a work group and thereby creating an environment of collective growth.<br />👇</p>
 <p align="center">
-   <a href="https://agustin-escribano.web.app/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/e-mkt-aff75.appspot.com/o/www.png?alt=media&token=ce64d187-e45f-4cf8-a450-dd40f33cc490" alt="miweb" height="40px" width="40px" />
-  </a>
    <a href="https://www.linkedin.com/in/agust%C3%ADn-escribano-779919201/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/e-mkt-aff75.appspot.com/o/github.png?alt=media&token=b09ac14b-6f51-4b2f-898e-b236debecccf" alt="midudev" height="40px" width="40px" />
   </a>
